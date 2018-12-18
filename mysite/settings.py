@@ -25,7 +25,7 @@ SECRET_KEY = 'vq5xe_pqo-8i1=#7osnep(*y#8k94_@4k@ewk9m$0-v-4+5m^f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'saniia.pythonanywhere.com',]
 
 
 # Application definition
